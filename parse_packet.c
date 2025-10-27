@@ -1,4 +1,3 @@
-// parse_packet.c
 #include "parse_packet.h"
 #include <string.h> // memcpy
 

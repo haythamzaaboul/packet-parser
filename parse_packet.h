@@ -1,4 +1,3 @@
-// parse_packet.h
 #pragma once
 #include <stdint.h>
 #include <stddef.h>
